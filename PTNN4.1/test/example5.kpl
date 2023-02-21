@@ -1,0 +1,13 @@
+Program Example5; (* Example 1 *)
+const b=1;c = -b;
+type t = char;
+
+function f(i : integer):char;
+    const b = c;
+    type a = array(.5.) of t;
+    begin
+
+    end;
+Begin
+
+End. (* Example 1 *)
